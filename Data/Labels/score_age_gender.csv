@@ -1,0 +1,96 @@
+participant_id,mean_total_score,depression_severity,gender,age_then,gender_encoded,age_group
+EMA_101,4.25,Mild depression,MALE,29,1,Group 3
+EMA_108,5.25,Mild depression,FEMALE,24,0,Group 2
+EMA_117,7.25,Mild depression,MALE,42,1,Group 3
+EMA_128,6.0,Mild depression,MALE,30,1,Group 3
+EMA_144,2.4,Minimal depression,FEMALE,21,0,Group 1
+EMA_161,15.0,Moderately severe depression,FEMALE,28,0,Group 3
+EMA_163,8.0,Mild depression,FEMALE,19,0,Group 1
+EMA_174,2.8,Minimal depression,FEMALE,20,0,Group 1
+EMA_177,11.75,Moderate depression,FEMALE,19,0,Group 1
+EMA_190,8.666666667,Mild depression,FEMALE,19,0,Group 1
+EMA_191,5.0,Mild depression,MALE,37,1,Group 3
+EMA_192,6.0,Mild depression,MALE,21,1,Group 1
+EMA_194,15.0,Moderately severe depression,MALE,19,1,Group 1
+EMA_196,3.2,Minimal depression,MALE,30,1,Group 3
+EMA_199,16.0,Moderately severe depression,FEMALE,21,0,Group 1
+EMA_201,0.0,Minimal depression,MALE,30,1,Group 3
+EMA_202,18.0,Moderately severe depression,MALE,23,1,Group 1
+EMA_203,3.5,Minimal depression,MALE,23,1,Group 1
+EMA_204,8.666666667,Mild depression,MALE,20,1,Group 1
+EMA_205,1.75,Minimal depression,MALE,19,1,Group 1
+EMA_206,10.5,Moderate depression,FEMALE,21,0,Group 1
+EMA_207,6.5,Mild depression,MALE,22,1,Group 1
+EMA_208,2.333333333,Minimal depression,MALE,22,1,Group 1
+EMA_209,0.0,Minimal depression,FEMALE,22,0,Group 1
+EMA_210,8.0,Mild depression,MALE,27,1,Group 2
+EMA_211,6.333333333,Mild depression,MALE,26,1,Group 2
+EMA_213,10.0,Moderate depression,MALE,26,1,Group 2
+EMA_214,3.5,Minimal depression,MALE,20,1,Group 1
+EMA_215,4.5,Mild depression,FEMALE,27,0,Group 2
+EMA_216,2.5,Minimal depression,FEMALE,27,0,Group 2
+EMA_217,8.0,Mild depression,MALE,25,1,Group 2
+EMA_218,7.0,Mild depression,FEMALE,26,0,Group 2
+EMA_219,8.5,Mild depression,MALE,26,1,Group 2
+EMA_220,8.0,Mild depression,FEMALE,28,0,Group 3
+EMA_221,10.0,Moderate depression,MALE,27,1,Group 2
+EMA_222,4.0,Minimal depression,MALE,24,1,Group 2
+EMA_223,9.333333333,Moderate depression,MALE,30,1,Group 3
+EMA_224,16.33333333,Moderately severe depression,MALE,25,1,Group 2
+EMA_225,2.5,Minimal depression,FEMALE,18,0,Group 1
+EMA_226,7.0,Mild depression,MALE,29,1,Group 3
+EMA_227,9.5,Moderate depression,MALE,37,1,Group 3
+EMA_228,8.0,Mild depression,MALE,24,1,Group 2
+EMA_229,6.0,Mild depression,MALE,26,1,Group 2
+EMA_230,0.0,Minimal depression,FEMALE,26,0,Group 2
+EMA_232,7.0,Mild depression,FEMALE,19,0,Group 1
+EMA_233,2.0,Minimal depression,FEMALE,18,0,Group 1
+EMA_234,10.33333333,Moderate depression,MALE,25,1,Group 2
+EMA_235,13.0,Moderate depression,FEMALE,28,0,Group 3
+EMA_236,4.0,Minimal depression,MALE,22,1,Group 1
+EMA_237,7.5,Mild depression,FEMALE,37,0,Group 3
+EMA_238,3.5,Minimal depression,MALE,23,1,Group 1
+EMA_239,6.0,Mild depression,MALE,23,1,Group 1
+EMA_240,8.0,Mild depression,MALE,23,1,Group 1
+EMA_241,2.5,Minimal depression,MALE,22,1,Group 1
+EMA_242,7.0,Mild depression,FEMALE,24,0,Group 2
+EMA_243,5.0,Mild depression,FEMALE,19,0,Group 1
+EMA_244,4.0,Minimal depression,FEMALE,30,0,Group 3
+EMA_245,5.0,Mild depression,MALE,25,1,Group 2
+EMA_246,2.0,Minimal depression,FEMALE,21,0,Group 1
+EMA_247,5.5,Mild depression,FEMALE,27,0,Group 2
+EMA_248,2.0,Minimal depression,MALE,20,1,Group 1
+EMA_249,8.0,Mild depression,MALE,39,1,Group 3
+EMA_251,8.5,Mild depression,FEMALE,27,0,Group 2
+EMA_252,2.0,Minimal depression,FEMALE,27,0,Group 2
+EMA_255,3.0,Minimal depression,FEMALE,27,0,Group 2
+EMA_256,1.5,Minimal depression,MALE,20,1,Group 1
+EMA_257,6.5,Mild depression,FEMALE,21,0,Group 1
+EMA_258,0.5,Minimal depression,FEMALE,25,0,Group 2
+EMA_259,0.0,Minimal depression,MALE,19,1,Group 1
+EMA_261,7.0,Mild depression,MALE,20,1,Group 1
+EMA_263,3.0,Minimal depression,MALE,40,1,Group 3
+EMA_264,1.5,Minimal depression,MALE,30,1,Group 3
+EMA_265,7.0,Mild depression,MALE,31,1,Group 3
+EMA_267,2.0,Minimal depression,FEMALE,27,0,Group 2
+EMA_268,6.5,Mild depression,MALE,30,1,Group 3
+EMA_269,0.0,Minimal depression,FEMALE,27,0,Group 2
+EMA_270,0.0,Minimal depression,FEMALE,27,0,Group 2
+EMA_271,10.66666667,Moderate depression,MALE,26,1,Group 2
+EMA_272,7.0,Mild depression,MALE,34,1,Group 3
+EMA_273,0.0,Minimal depression,FEMALE,27,0,Group 2
+EMA_274,0.0,Minimal depression,FEMALE,27,0,Group 2
+EMA_275,0.0,Minimal depression,FEMALE,27,0,Group 2
+EMA_276,4.5,Mild depression,MALE,30,1,Group 3
+EMA_277,6.25,Mild depression,MALE,30,1,Group 3
+EMA_278,4.0,Minimal depression,MALE,31,1,Group 3
+EMA_279,2.0,Minimal depression,FEMALE,27,0,Group 2
+EMA_280,3.0,Minimal depression,MALE,23,1,Group 1
+EMA_281,10.0,Moderate depression,MALE,26,1,Group 2
+EMA_285,10.0,Moderate depression,MALE,39,1,Group 3
+EMA_286,16.0,Moderately severe depression,MALE,38,1,Group 3
+EMA_287,12.0,Moderate depression,MALE,24,1,Group 2
+EMA_288,16.0,Moderately severe depression,FEMALE,26,0,Group 2
+EMA_289,0.0,Minimal depression,FEMALE,27,0,Group 2
+EMA_292,0.0,Minimal depression,FEMALE,27,0,Group 2
+EMA_294,3.0,Minimal depression,MALE,26,1,Group 2
