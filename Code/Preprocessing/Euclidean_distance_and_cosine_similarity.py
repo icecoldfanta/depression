@@ -59,3 +59,17 @@ severe_embeddings = features[labels == 'mild_embeddings.csv'].mean(axis=0)
 cos_sim = cosine_similarity([moderate_embeddings], [severe_embeddings])
 print(f"Cosine Similarity between moderate and severe embeddings: {cos_sim[0][0]}")
 
+
+# In[ ]:
+
+
+# Find the closest pairs (highest similarity)
+closest_pairs = cosine_sim_df.unstack().sort_values(ascending=False).drop_duplicates()
+print("Top 10 Closest Pairs:")
+print(closest_pairs.head(10))
+
+# Find the furthest pairs (lowest similarity)
+furthest_pairs = cosine_sim_df.unstack().sort_values().drop_duplicates()
+print("Top 10 Furthest Pairs:")
+print(furthest_pairs.head(10))
+
